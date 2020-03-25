@@ -1,17 +1,9 @@
 #------------------------------------------------------------------------
 # Created by:  Hawamdah, Ahmad
-#              ahawamda
-#              10 Dec 2019
-#
-# Assignment:  Lab 5: Subroutines
-#              CSE 12, Computer Systems and Assembly Language
-#              UC Santa Cruz, Fall 2019
 #
 # Description: Library of subroutines used to convert an array of
 #              numerical ASCII strings to ints, sort them, and print
 #              them.
-#
-# Notes:       This file is intended to be run from the Lab 5 test file.
 #------------------------------------------------------------------------
 
 .text
