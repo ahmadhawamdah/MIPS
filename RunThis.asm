@@ -1,9 +1,4 @@
 #------------------------------------------------------------------------
-# Created by:  Rebecca
-#              23 November 2019
-#
-# Description: Test code for Lab 5 for CSE 12, Fall 2019
-#
 # Note:        This program is intended to run in the MARS IDE.
 #              Enter test case in the program arguments field in the
 #              following formats:
